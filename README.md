@@ -160,7 +160,6 @@ You want to design a program to calculate the bill for a customer's order in a r
 * Define an Order class: This class should have a list of MenuItem objects and methods to add items, calculate the total bill amount, and potentially apply specific discounts based on the order composition.
 * Create a class diagram with all classes and their relationships. The menu should have at least 10 items.
 
-The code should follow PEP8 rules.
 **Código**
 ```
 class MenuItem:
